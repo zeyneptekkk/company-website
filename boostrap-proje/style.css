@@ -1,0 +1,31 @@
+
+.carousel-item img {
+	width: 100%; /* Resmi %50'ye kadar küçült */
+	height: 600px;   /* Yüksekliği koru, en-boy oranını koru */
+	margin: 0 auto; /* Ortalamak için */
+  }
+  .container h2{
+	font-size:45px;
+	margin-top:40px;
+	text-align: center;
+	font-family: 'Times New Roman', Times, serif;
+  }
+  .container p{
+	font-family: 'Times New Roman', Times, serif;
+  }
+  .hakkimizda{
+	background-color: rgba(250, 235, 215, 0.23);
+  }
+ .ayrac{
+	border: none;
+	border-top: 3px solid #343a40;
+	max-width: 250px;
+	margin: 25px auto;
+ }
+ .ekipCard>img:hover{
+	opacity: 0.9;
+
+ }
+ .figure:hover{
+	opacity:0.8 ;
+ }
